@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<users>
+    <user username="Фёдор Пыршев">
+        <age>20</age>
+        <group>БББО-10-20</group>
+    </user>
+    <user username="Никита Портнов">
+        <age>19</age>
+        <group>БББО-10-20</group>
+    </user>
+</users>
